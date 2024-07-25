@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E8369EB3-EF46-44EA-BEA7-F66FDBD3278D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A6B0EB9-33EF-4F1F-9C89-9D84A540909C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsReader/ViewModels/NewsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "NewsViewModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8A6B0EB9-33EF-4F1F-9C89-9D84A540909C - fb2692504a3ab0d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of NewsReader.NewsViewModel.articles : Swift.Array&lt;NewsReader.Article&gt;"
+                  moduleName = "NewsReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pulkitvora/Desktop/NewsReader/NewsReader/ViewModels/NewsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "8A6B0EB9-33EF-4F1F-9C89-9D84A540909C - db9378e888086ad3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsReader.NewsViewModel.articles.getter : Swift.Array&lt;NewsReader.Article&gt;"
+                  moduleName = "NewsReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pulkitvora/Desktop/NewsReader/NewsReader/ViewModels/NewsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "8A6B0EB9-33EF-4F1F-9C89-9D84A540909C - 55137d8809fe6cb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsReader.NewsViewModel.articles.setter : Swift.Array&lt;NewsReader.Article&gt;"
+                  moduleName = "NewsReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pulkitvora/Desktop/NewsReader/NewsReader/ViewModels/NewsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "8A6B0EB9-33EF-4F1F-9C89-9D84A540909C - 1ff5e54560d01785"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsReader.NewsViewModel.articles.modify : Swift.Array&lt;NewsReader.Article&gt;"
+                  moduleName = "NewsReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pulkitvora/Desktop/NewsReader/NewsReader/ViewModels/NewsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "8A6B0EB9-33EF-4F1F-9C89-9D84A540909C - befd6895fe4bc91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsReader.NewsViewModel.articles.modify : Swift.Array&lt;NewsReader.Article&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "NewsReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pulkitvora/Desktop/NewsReader/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "8A6B0EB9-33EF-4F1F-9C89-9D84A540909C - eafdd4886c40de56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsReader.NewsViewModel.$articles.getter : Combine.Published&lt;Swift.Array&lt;NewsReader.Article&gt;&gt;.Publisher"
+                  moduleName = "NewsReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pulkitvora/Desktop/NewsReader/NewsReader/ViewModels/NewsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "8A6B0EB9-33EF-4F1F-9C89-9D84A540909C - abb0f64d1f72b106"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsReader.NewsViewModel.$articles.setter : Combine.Published&lt;Swift.Array&lt;NewsReader.Article&gt;&gt;.Publisher"
+                  moduleName = "NewsReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pulkitvora/Desktop/NewsReader/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "8A6B0EB9-33EF-4F1F-9C89-9D84A540909C - 484a028a9079ea0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsReader.NewsViewModel.$articles.modify : Combine.Published&lt;Swift.Array&lt;NewsReader.Article&gt;&gt;.Publisher"
+                  moduleName = "NewsReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pulkitvora/Desktop/NewsReader/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "8A6B0EB9-33EF-4F1F-9C89-9D84A540909C - 4902ce384785bc11"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsReader.NewsViewModel.$articles.modify : Combine.Published&lt;Swift.Array&lt;NewsReader.Article&gt;&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "NewsReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pulkitvora/Desktop/NewsReader/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
